@@ -1,0 +1,14 @@
+C:\Users\corte\source\repos\ExercícioSessa9\ExercícioSessa9\obj\Debug\net8.0\ExercícioSessa9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corte\source\repos\ExercícioSessa9\ExercícioSessa9\obj\Debug\net8.0\ExercícioSessa9.AssemblyInfoInputs.cache
+C:\Users\corte\source\repos\ExercícioSessa9\ExercícioSessa9\obj\Debug\net8.0\ExercícioSessa9.AssemblyInfo.cs
+C:\Users\corte\source\repos\ExercícioSessa9\ExercícioSessa9\obj\Debug\net8.0\ExercícioSessa9.csproj.CoreCompileInputs.cache
+C:\Users\corte\source\repos\ExercícioSessa9\ExercícioSessa9\bin\Debug\net8.0\ExercícioSessa9.exe
+C:\Users\corte\source\repos\ExercícioSessa9\ExercícioSessa9\bin\Debug\net8.0\ExercícioSessa9.deps.json
+C:\Users\corte\source\repos\ExercícioSessa9\ExercícioSessa9\bin\Debug\net8.0\ExercícioSessa9.runtimeconfig.json
+C:\Users\corte\source\repos\ExercícioSessa9\ExercícioSessa9\bin\Debug\net8.0\ExercícioSessa9.dll
+C:\Users\corte\source\repos\ExercícioSessa9\ExercícioSessa9\bin\Debug\net8.0\ExercícioSessa9.pdb
+C:\Users\corte\source\repos\ExercícioSessa9\ExercícioSessa9\obj\Debug\net8.0\ExercícioSessa9.dll
+C:\Users\corte\source\repos\ExercícioSessa9\ExercícioSessa9\obj\Debug\net8.0\refint\ExercícioSessa9.dll
+C:\Users\corte\source\repos\ExercícioSessa9\ExercícioSessa9\obj\Debug\net8.0\ExercícioSessa9.pdb
+C:\Users\corte\source\repos\ExercícioSessa9\ExercícioSessa9\obj\Debug\net8.0\ExercícioSessa9.genruntimeconfig.cache
+C:\Users\corte\source\repos\ExercícioSessa9\ExercícioSessa9\obj\Debug\net8.0\ref\ExercícioSessa9.dll
